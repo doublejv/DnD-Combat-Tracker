@@ -1,0 +1,1 @@
+{"name":"Goblin","id":0,"proficiency":2,"hp":0,"init":0,"initBonus":0,"ac":15,"hitDie":6,"numHitDie":2,"str":8,"dex":15,"con":10,"intel":10,"wis":8,"charisma":8,"actions":[{"hitBonus":4,"dmgDie":6,"numDmgDie":1,"dmgBonus":4,"name":"Cimitarra"},{"hitBonus":4,"dmgDie":6,"numDmgDie":1,"dmgBonus":4,"name":"Arco Curto"}]}

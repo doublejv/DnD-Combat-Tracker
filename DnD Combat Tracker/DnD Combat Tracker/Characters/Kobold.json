@@ -1,0 +1,1 @@
+{"name":"Kobold","id":0,"proficiency":2,"hp":0,"init":0,"initBonus":2,"ac":12,"hitDie":6,"numHitDie":2,"str":7,"dex":15,"con":9,"intel":8,"wis":7,"charisma":8,"actions":[{"hitBonus":4,"dmgDie":4,"numDmgDie":1,"dmgBonus":2,"name":"Adaga"},{"hitBonus":4,"dmgDie":4,"numDmgDie":1,"dmgBonus":2,"name":"Funda"}]}
